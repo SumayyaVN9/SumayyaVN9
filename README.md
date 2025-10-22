@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7AdhynuLstu/XbBpCXG8FHI/ARAAAAAANt4/uOalbpLskYgrwGb11hSu2SDj_Mig8SXIQCLCBGASYHO/s1600/2000_60@px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sumayya V N</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumayyavn9&label=Profile%20views&color=0e75b6&style=flat" alt="sumayyavn9" /> </p>
 
