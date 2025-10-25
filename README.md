@@ -44,11 +44,16 @@ const sumayya = {
 
 ## 🎯 Current Focus
 
-- 🔭 Building awesome full-stack applications
+<!--- 🔭 Building awesome full-stack applications
 - 🌱 Deep diving into **Swift/SwiftUI** ecosystem
 - 👯 Looking to collaborate on innovative projects
 - 💡 Exploring mobile development patterns
-- 🎨 Crafting beautiful user experiences
+- 🎨 Crafting beautiful user experiences-->
+- 🔭 Building full-stack applications and websites
+- 🌱 Learning Swift & SwiftUI
+- 👯 Open to collaborations, internships, and freelance projects
+- 🎨 Passionate about design and UI/UX
+- 💡 Exploring modern mobile and web development patterns
 
 ## 🛠️ Tech Stack
 
