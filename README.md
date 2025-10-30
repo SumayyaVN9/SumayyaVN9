@@ -98,11 +98,11 @@ const sumayya = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayyavn9&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
 </div>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumayyavn9&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=sumayyavn9&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" /> -->
+<!-- </div> -->
 
 ## 📈 Contribution Graph
 
@@ -136,7 +136,7 @@ const sumayya = {
 </div>
 
 
-## 🎯 Coding Activity
+<!-- ## 🎯 Coding Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayyavn9&theme=tokyonight" alt="Profile Summary" />
@@ -145,7 +145,7 @@ const sumayya = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayyavn9&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayyavn9&theme=tokyonight" alt="Most Commit Language" />
-</div>
+</div> -->
 
 ---
 
