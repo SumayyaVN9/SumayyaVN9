@@ -94,9 +94,9 @@ const sumayya = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumayyavn9&theme=tokyonight&hide_border=true" height="170" alt="streak" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayyavn9&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
-</div>
+</div> -->
 
 <!--## 🏆 GitHub Trophies -->
 
