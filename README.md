@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sumayyavn9&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sumayyavn9?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
 </div>
 
 <br/>
@@ -42,92 +41,66 @@ const sumayya = {
 
 <br clear="right"/>
 
-## 🎯 Current Focus
 
-<!--- 🔭 Building awesome full-stack applications
-- 🌱 Deep diving into **Swift/SwiftUI** ecosystem
-- 👯 Looking to collaborate on innovative projects
-- 💡 Exploring mobile development patterns
-- 🎨 Crafting beautiful user experiences-->
-- 🔭 Building full-stack applications and websites
-- 🌱 Learning Swift & SwiftUI
-- 👯 Open to collaborations, internships, and freelance projects
-- 🎨 Passionate about design and UI/UX
-- 💡 Exploring modern mobile and web development patterns
+
+## 🎯 Current Focus
+- 🌱 Learning **Swift / SwiftUI** and **Android Development (Kotlin)**
+- 🔭 Building **full-stack web and mobile applications**
+- 💡 Exploring **modern mobile and web development patterns and best practices**
+
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+- **Languages:** `JavaScript` `Java` `Kotlin` `PHP` `Swift`
+- **Frontend:** `React` `HTML5` `CSS3`
+- **Backend:** `Node.js` `Express.js`
+- **Databases:** `MongoDB` `MySQL` `PostgreSQL` `Firebase`
+- **Tools:** `Android SDK` `Git`
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<br/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Platforms
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumayyavn9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumayyavn9&theme=tokyonight&hide_border=true" height="170" alt="streak" />
-</div>
-
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayyavn9&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
-</div> -->
-
-<!--## 🏆 GitHub Trophies -->
-
-<!-- <div align="center"> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=sumayyavn9&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" /> -->
-<!-- </div> -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumayyavn9&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
-## 💼 Portfolio & Resume
-
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sumayyavn.dev/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CrhAeGUEoyy5k-unG80XLyPU6BB04qWs/view?usp=sharing)
-
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumayya-v-n-09aaa629b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumayya__sumi__)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suminoushad101@gmail.com)
 
 </div>
+
+<br/>
+
+
+
+## 📊 GitHub Statistics
+
+<table>
+<tr>
+<td align="left" width="50%">
+
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api?username=sumayyavn9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  height="165"
+/> -->
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sumayyavn9&theme=tokyonight&hide_border=true"
+  height="165"
+/>
+
+</td>
+
+<td align="right" width="50%">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sumayyavn9&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</td>
+</tr>
+</table>
 
 ## 💭 Dev Quote
 
@@ -136,16 +109,6 @@ const sumayya = {
 </div>
 
 
-<!-- ## 🎯 Coding Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumayyavn9&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumayyavn9&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumayyavn9&theme=tokyonight" alt="Most Commit Language" />
-</div> -->
 
 ---
 
