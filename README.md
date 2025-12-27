@@ -11,7 +11,14 @@
 </div>
 
 <br/>
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sumayyavn.dev/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CrhAeGUEoyy5k-unG80XLyPU6BB04qWs/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumayya-v-n-09aaa629b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suminoushad101@gmail.com)
+
+</div>
 ## 🌟 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -59,7 +66,7 @@ const sumayya = {
 
 <br/>
 
-<div align="left">
+<!-- <div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sumayyavn.dev/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CrhAeGUEoyy5k-unG80XLyPU6BB04qWs/view?usp=sharing)
@@ -68,7 +75,7 @@ const sumayya = {
 
 </div>
 
-<br/>
+<br/> -->
 
 
 
